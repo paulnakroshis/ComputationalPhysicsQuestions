@@ -14,4 +14,4 @@ Topics covered will be contained in courses such as:
 	- Astrophysics
 	
 For reasons I do not understand, Github doesn't render the images I added to my notebooks, so if you want
-to see a better preview, I recomment looking at them at [nbviewer](https://nbviewer.jupyter.org/github/paulnakroshis/ComputationalPhysicsQuestions/tree/main/) .
+to see a better preview, I recommend looking at them at [nbviewer](https://nbviewer.jupyter.org/github/paulnakroshis/ComputationalPhysicsQuestions/tree/main/) .
